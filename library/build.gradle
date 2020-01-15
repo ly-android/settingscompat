@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.czy1121'
+group='com.github.ly-android'
 version='1.1.4.1'
 archivesBaseName='settingscompat'
 
