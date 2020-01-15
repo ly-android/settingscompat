@@ -10,7 +10,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.WindowManager;
-import android.widget.ImageView;
 import android.widget.Toast;
 
 public class FloatView extends AppCompatImageView {

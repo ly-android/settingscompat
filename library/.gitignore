@@ -1,0 +1,14 @@
+.gradle
+.idea
+build
+target
+local.properties
+*.iml
+checkstyle.xml
+codestyle_suppressions.xml
+.editorconfig
+.athena
+.project
+.classpath
+.settings
+mapping.txt
